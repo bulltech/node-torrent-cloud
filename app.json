@@ -6,7 +6,7 @@
 		"AUTH_USER": { "required": false },
 		"AUTH_PASSWORD": { "required": false },
 		"SEARCH_PROVIDERS_URL": {
-			"value": "https://gist.githubusercontent.com/jpillora/e667f3d16a6bd403edc4/raw/af4ff4a66a1599ccfd6940d90c633a39ecbf6ba1/torrent-cloud-search-provider-example.json",
+			"value": "https://gist.githubusercontent.com/bulltech/cf4f0aa73ab853003950dae9807e5e9e/raw/041111ba9c19f1dc6498781cb8d91cd7373dd77d/torrent-search.json",
 			"required": false
 		},
 		"AWS_BUCKET": { "required": false },
